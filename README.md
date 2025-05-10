@@ -1,3 +1,5 @@
 # SyncCharge
 
-sync your battery status. WIP....
+sync your battery status. 
+
+WIP.
